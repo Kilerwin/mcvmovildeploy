@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { View } from "react-native";
-import RNPickerSelect from "react-native-picker-select";
+import RNPickerSelect from "@react-native-picker/picker";
 import Spaciado from "../utils/Spaciado";
 import Colors from "../utils/colores";
 import Font from "../utils/Fonst";
